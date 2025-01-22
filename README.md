@@ -1,4 +1,4 @@
-# [homework2](https://www.figma.com/design/rEuANRZDlbFqQs4buloI6S/FeastFinder-D1-216147?node-id=6-1645&t=Quip4wXz2riejOJs-0)
+# [figma](https://www.figma.com/design/rEuANRZDlbFqQs4buloI6S/FeastFinder-D1-216147?node-id=6-1645&t=Quip4wXz2riejOJs-0)
 
 Homework 2 MIS
 
